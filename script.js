@@ -64,7 +64,7 @@ const {
 												Swal.fire({
 													imageUrl: 'img/lofyu.gif',
 			  										imageHeight: 150,
-													title: 'lopyu ' + `${sender}`
+													title: 'lopyu Cantik'
 												}).then(function() {
 													Swal.fire({
 														imageUrl: 'img/see.gif',
