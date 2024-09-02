@@ -1,5 +1,5 @@
 let footer = document.getElementById("credit");
-footer.href = "https://www.instagram.com/rinaldi_r7/";
+footer.href = "https://www.instagram.com/alx.dyy/";
 
 const {
           value: name
